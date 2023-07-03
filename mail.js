@@ -1,4 +1,3 @@
-const firebaseConfig = {
   //   copy your firebase config informations
 const firebaseConfig = {
     apiKey: "AIzaSyAeF1DGTjnfoFOSW5kO0FTjeI-GqTwo3A4",
