@@ -1,5 +1,13 @@
 const firebaseConfig = {
   //   copy your firebase config informations
+  const firebaseConfig = {
+  apiKey: "AIzaSyD2nW9mWQi6_RnbkJsVNyYmd-VgBbIpt4Y",
+  authDomain: "feedback-d2637.firebaseapp.com",
+  projectId: "feedback-d2637",
+  storageBucket: "feedback-d2637.appspot.com",
+  messagingSenderId: "142373895485",
+  appId: "1:142373895485:web:16ab710dda6f15566f9954",
+  measurementId: "G-M5WFEDXLGR"
 };
 
 // initialize firebase
