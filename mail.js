@@ -1,14 +1,14 @@
 const firebaseConfig = {
   //   copy your firebase config informations
 const firebaseConfig = {
-  apiKey: "AIzaSyD2nW9mWQi6_RnbkJsVNyYmd-VgBbIpt4Y",
-  authDomain: "feedback-d2637.firebaseapp.com",
-  projectId: "feedback-d2637",
-  storageBucket: "feedback-d2637.appspot.com",
-  messagingSenderId: "142373895485",
-  appId: "1:142373895485:web:16ab710dda6f15566f9954",
-  measurementId: "G-M5WFEDXLGR"
-};
+    apiKey: "AIzaSyAeF1DGTjnfoFOSW5kO0FTjeI-GqTwo3A4",
+    authDomain: "contactform-7a8e2.firebaseapp.com",
+    databaseURL: "https://contactform-7a8e2-default-rtdb.firebaseio.com",
+    projectId: "contactform-7a8e2",
+    storageBucket: "contactform-7a8e2.appspot.com",
+    messagingSenderId: "1093687480740",
+    appId: "1:1093687480740:web:9620b2d6224e272422b131"
+  };
 // initialize firebase
 firebase.initializeApp(firebaseConfig);
 
